@@ -1,4 +1,4 @@
-# 🌌 3D Hologram Earth Portfolio  
+# 🌌 3D Frontend Website
 **"Exploring the Universe, One Pixel at a Time"**
 
 Welcome to my space-themed website! This project showcases my frontend development skills with a futuristic twist—featuring a fully interactive **3D hologram Earth** and smooth animations to provide an immersive experience. It’s a digital journey across the cosmos, built with modern web technologies.
