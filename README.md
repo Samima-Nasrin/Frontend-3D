@@ -1,11 +1,11 @@
-# 🌌 3D Frontend Website
+# 3D Frontend Website
 **"Exploring the Universe, One Pixel at a Time"**
 
 Welcome to my space-themed website! This project showcases my frontend development skills with a futuristic twist—featuring a fully interactive **3D hologram Earth** and smooth animations to provide an immersive experience. It’s a digital journey across the cosmos, built with modern web technologies.
 
 ---
 
-## 🚀 Features  
+## Features  
 - **Interactive 3D Earth** powered by **Three.js**  
 - Smooth, responsive animations across devices  
 - Space-inspired design with dynamic interactions  
@@ -15,7 +15,7 @@ Welcome to my space-themed website! This project showcases my frontend developme
 
 ---
 
-## 🛠️ Technologies Used  
+## Technologies Used  
 - **HTML5** – Structure and semantic content  
 - **CSS3** – Styling with animations and responsiveness  
 - **JavaScript (ES6+)** – Logic and interactivity  
@@ -28,7 +28,7 @@ Copy code
 
 ---
 
-## 🖥️ Getting Started  
+## Getting Started  
 
 ### Installation  
 1. Clone the repository:  
